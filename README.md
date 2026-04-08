@@ -9,4 +9,9 @@
 <img align="center" alt="logo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"/>
 <img align="center" alt="logo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="logo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<p>Redes sociais</p>
+
+<a href="https://www.linkedin.com/in/alexandre-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
