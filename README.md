@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
   
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aleassuncao007-sketch&show_icons=true&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
+[![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=aleassuncao007-sketch&show_icons=true&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
 
 ### Linguagens
 
