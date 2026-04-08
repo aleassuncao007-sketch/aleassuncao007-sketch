@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   
 [![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=aleassuncao007-sketch&show_icons=true&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
-[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=aleassuncao007-sketch&layout=compact&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
+[![Minhas Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleassuncao007-sketch&layout=compact&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
 
 ### Linguagens
 
