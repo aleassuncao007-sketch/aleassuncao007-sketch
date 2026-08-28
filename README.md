@@ -9,6 +9,7 @@
 <div style="display: inline_block">
   
 [![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=aleassuncao007-sketch&show_icons=true&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
+
 ---
 
 <img align="center" alt="logo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -18,7 +19,6 @@
 <img align="center" alt="logo-Js" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="logo-Js" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="center" alt="logo-MySQL" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
 
 ---
 
