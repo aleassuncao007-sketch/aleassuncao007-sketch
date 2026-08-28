@@ -9,8 +9,6 @@
 <div style="display: inline_block">
   
 [![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=aleassuncao007-sketch&show_icons=true&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
-[![Minhas Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleassuncao007-sketch&layout=compact&theme=tokyonight)](https://github.com/aleassuncao007-sketch)
-
 ---
 
 <img align="center" alt="logo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
