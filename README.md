@@ -1,6 +1,6 @@
 <p> Olá, meu nome é Alexandre.
 <ul>
-  <li>Estudante do curso de Análise e Desenvolvimento de Sistema pelo Instituto Federal de São Paulo (IFSP)</li>
+  <li>Estudante do curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo</li>
   <li>Técnico em Redes de Computadores pelo SENAI</li>
 </ul>
 
