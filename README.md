@@ -1,6 +1,6 @@
 <p> Olá, meu nome é Alexandre.
 <ul>
-  <li>Estudante do Instituto Federal de São Paulo IFSP</li>
+  <li>Estudante do curso de Análise e Desenvolvimento de Sistema pelo Instituto Federal de São Paulo (IFSP)</li>
   <li>Técnico em Redes de Computadores pelo SENAI</li>
 </ul>
 
@@ -18,7 +18,7 @@
 <img align="center" alt="logo-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="logo-Js" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="logo-Js" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" alt="logo-MySQL" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="logo-MySQL" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 ---
 
